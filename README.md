@@ -19,12 +19,12 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/cadetkumar">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="www.linkedin.com/in/himanshu-kumar-12736037a">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40/>
 </a>
 </p>
 
@@ -46,15 +46,8 @@
 
 ---
 
-# 📊 Data Analytics Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MSExcel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
 
----
 
 <img src="https://streak-stats.vercel.app?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&border_radius=5" height="150" width="380" alt="GitHub streak" />
 
