@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="www.linkedin.com/in/himanshu-kumar-12736037a">
+<a href="https://linkedin.com/in/himanshu-kumar-12736037a">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40/>
 </a>
 </p>
